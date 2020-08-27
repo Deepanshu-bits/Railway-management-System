@@ -1,0 +1,1 @@
+# Railway-management-System is a Java swing with Mysql project ,I developed this Project as a part of my Object Oriented System lab.The main features of this project is to manage train schedule,train Route,Booking tickets etc.
